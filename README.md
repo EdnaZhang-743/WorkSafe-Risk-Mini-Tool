@@ -26,27 +26,17 @@ git clone https://github.com/EdnaZhang-743/WorkSafe-Risk-Mini-Tool.git
 cd WorkSafe-Risk-Mini-Tool
 (Optional) Create a virtual environment:
 
-bash
-复制代码
 python -m venv .venv
 For Windows:
 
-bash
-复制代码
 .venv\Scripts\activate
 For macOS/Linux:
 
-bash
-复制代码
 source .venv/bin/activate
 Install dependencies:
 
-bash
-复制代码
 pip install -r requirements.txt
 2️⃣ Run the App
-bash
-复制代码
 streamlit run app.py
 Then open your browser at 👉 http://localhost:8501
 
@@ -79,8 +69,6 @@ Track the historical risk trend of each task through the “History & Trends” 
 This helps identify slow improvement or high-risk patterns over time.
 
 📦 Project Structure
-bash
-复制代码
 WorkSafe-Risk-Mini-Tool/
 │
 ├── app.py                # Main Streamlit application
@@ -100,5 +88,5 @@ This project is designed for non-technical users, such as workplace safety profe
 
 Fully compatible with no-code or low-code maintenance environments.
 
-Ideal for integration into ProErgo+ musculoskeletal risk management systems.
+Can be deployed independently, suitable for integrated use.
 
