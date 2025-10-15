@@ -36,9 +36,11 @@ source .venv/bin/activate
 Install dependencies:
 
 pip install -r requirements.txt
-
+```bash
 2️⃣ Run the App
+```bash
 streamlit run app.py
+```bash
 Then open your browser at 👉 http://localhost:8501
 
 🧭 How to Use
