@@ -36,20 +36,19 @@ source .venv/bin/activate
 Install dependencies:
 
 pip install -r requirements.txt
+
 2️⃣ Run the App
 streamlit run app.py
 Then open your browser at 👉 http://localhost:8501
 
 🧭 How to Use
+
 🪪 Step 1 — Identify
 Go to “New Assessment” and fill in:
 
 Task name (e.g., “Box lifting”)
-
 Load weight (kg)
-
 Frequency per hour
-
 Posture type (e.g., bending, repetitive upper limb, pushing/pulling)
 
 🧮 Step 2 — Assess
@@ -75,6 +74,7 @@ WorkSafe-Risk-Mini-Tool/
 ├── requirements.txt      # Dependency list
 ├── risk_data.csv         # Sample dataset
 └── README.md             # Documentation
+
 🧰 Tech Stack
 Category	Tools
 Frontend	Streamlit
@@ -85,8 +85,6 @@ File I/O	CSV / Google Sheets Integration
 
 🧑‍💻 Developer Notes
 This project is designed for non-technical users, such as workplace safety professionals.
-
 Fully compatible with no-code or low-code maintenance environments.
-
 Can be deployed independently, suitable for integrated use.
 
