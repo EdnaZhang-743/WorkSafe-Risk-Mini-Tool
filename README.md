@@ -14,9 +14,9 @@ A **lightweight, low-code Streamlit tool** that helps safety professionals and s
 
 ---
 
-## 🚀 Quick Start
+🚀 Quick Start
 
-### 1️⃣ Install Requirements
+1️⃣ Install Requirements
 
 Clone or download the repository:
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ---
 
-### 2️⃣ Run the App
+2️⃣ Run the App
 
 ```bash
 streamlit run app.py
