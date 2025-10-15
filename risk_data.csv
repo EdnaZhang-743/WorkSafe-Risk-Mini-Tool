@@ -1,0 +1,4 @@
+date,task,load_kg,frequency_per_hour,posture,risk_score
+2025-10-11,Lift boxes,15,20,Bending,35
+2025-10-12,Push cart,10,30,Pushing,33
+2025-10-13,Assembly work,5,60,Repetitive Upper Limb,63
