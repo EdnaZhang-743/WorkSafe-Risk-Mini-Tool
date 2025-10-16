@@ -1,4 +1,4 @@
-# WorkSafe Risk Mini Tool #
+WorkSafe Risk Mini Tool
 
 A lightweight, low-code Streamlit tool that helps safety professionals and small businesses quickly identify, assess, control, review, and monitor workplace musculoskeletal disorder (MSD) risks — all in an intuitive, database-free interface.
 
@@ -6,11 +6,11 @@ A lightweight, low-code Streamlit tool that helps safety professionals and small
 
 ✨ Key Features
 
-✅ **Low-code interface** – built with Streamlit, easy to modify and maintain  
-✅ **No database installation required** – uses simple CSV import/export  
-✅ **MSD-focused risk assessment** – supports manual handling, lifting, pushing/pulling tasks  
-✅ **Dynamic risk scoring** – adjustable thresholds for different workplaces  
-✅ **Trend visualization** – historical charts to track safety performance  
+Low-code interface – built with Streamlit, easy to modify and maintain  
+No database installation required – uses simple CSV import/export  
+MSD-focused risk assessment – supports manual handling, lifting, pushing/pulling tasks  
+Dynamic risk scoring – adjustable thresholds for different workplaces  
+Trend visualization – historical charts to track safety performance  
 
 ---
 
