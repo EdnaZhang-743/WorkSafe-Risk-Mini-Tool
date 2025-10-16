@@ -20,6 +20,7 @@ A lightweight, low-code Streamlit tool that helps safety professionals and small
 
 Clone or download the repository:
 git clone https://github.com/EdnaZhang-743/WorkSafe-Risk-Mini-Tool.git
+
 cd WorkSafe-Risk-Mini-Tool
 
 (Optional) Create a virtual environment：
@@ -31,7 +32,7 @@ python -m venv .venv
 #macOS/Linux：
 source .venv/bin/activate
 
-Install dependencies
+Install dependencies：
 pip install -r requirements.txt
 
 ---
@@ -39,6 +40,7 @@ pip install -r requirements.txt
 2️⃣ Run the App
 
 streamlit run app.py
+
 Then open your browser at 👉 http://localhost:8501
 
 ---
