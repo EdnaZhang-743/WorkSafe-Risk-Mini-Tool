@@ -73,12 +73,14 @@ All information can be shared or reviewed offline — no database needed.
 
 
 💾 Data Import / Export
+
 Upload CSV files to replace existing data
 Export current results with one click
 Ideal for users without IT background — no installation, no server setup
 
 
 🧩 Tech Stack
+
 Component	Technology
 Frontend	Streamlit (Python Web Framework)
 Backend Logic	pandas + numpy
@@ -87,6 +89,7 @@ Data Storage	Local CSV files
 
 
 🧠 Project Background
+
 This tool was designed for workplace ergonomics and safety assessment, helping identify and control manual handling risks such as lifting, pushing, and repetitive motion tasks.
 It aligns with the core stages of risk management defined by WorkSafe:
 
