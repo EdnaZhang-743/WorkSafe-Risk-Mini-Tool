@@ -1,10 +1,10 @@
-# 🦺 WorkSafe Risk Mini Tool
+# WorkSafe Risk Mini Tool #
 
-A **lightweight, low-code Streamlit tool** that helps safety professionals and small businesses quickly **identify, assess, control, review, and monitor** workplace musculoskeletal disorder (MSD) risks — all in an intuitive, database-free interface.
+A lightweight, low-code Streamlit tool that helps safety professionals and small businesses quickly identify, assess, control, review, and monitor workplace musculoskeletal disorder (MSD) risks — all in an intuitive, database-free interface.
 
 ---
 
-## ✨ Key Features
+✨ Key Features
 
 ✅ **Low-code interface** – built with Streamlit, easy to modify and maintain  
 ✅ **No database installation required** – uses simple CSV import/export  
@@ -19,34 +19,32 @@ A **lightweight, low-code Streamlit tool** that helps safety professionals and s
 1️⃣ Install Requirements
 
 Clone or download the repository:
-
-```bash
 git clone https://github.com/EdnaZhang-743/WorkSafe-Risk-Mini-Tool.git
 cd WorkSafe-Risk-Mini-Tool
 
-# (Optional) Create a virtual environment
+(Optional) Create a virtual environment：
 python -m venv .venv
 
-# For Windows
+#Windows：
 .venv\Scripts\activate
 
-# For macOS/Linux
+#macOS/Linux：
 source .venv/bin/activate
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
 ---
 
 2️⃣ Run the App
 
-```bash
 streamlit run app.py
 Then open your browser at 👉 http://localhost:8501
 
 ---
 
 🧭 How to Use
+
 Step 1 – Identify
 Go to “New Assessment” tab and fill in:
 
