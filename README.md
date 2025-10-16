@@ -2,7 +2,6 @@ WorkSafe Risk Mini Tool
 
 A lightweight, low-code Streamlit tool that helps safety professionals and small businesses quickly identify, assess, control, review, and monitor workplace musculoskeletal disorder (MSD) risks — all in an intuitive, database-free interface.
 
----
 
 ✨ Key Features
 
@@ -12,7 +11,6 @@ MSD-focused risk assessment – supports manual handling, lifting, pushing/pulli
 Dynamic risk scoring – adjustable thresholds for different workplaces  
 Trend visualization – historical charts to track safety performance  
 
----
 
 🚀 Quick Start
 
@@ -35,7 +33,6 @@ source .venv/bin/activate
 Install dependencies：
 pip install -r requirements.txt
 
----
 
 2️⃣ Run the App
 
@@ -43,7 +40,6 @@ streamlit run app.py
 
 Then open your browser at 👉 http://localhost:8501
 
----
 
 🧭 How to Use
 
@@ -75,14 +71,12 @@ Step 5 – Monitor
 Regularly import/export updated CSV data for ongoing monitoring.
 All information can be shared or reviewed offline — no database needed.
 
----
 
 💾 Data Import / Export
 Upload CSV files to replace existing data
 Export current results with one click
 Ideal for users without IT background — no installation, no server setup
 
----
 
 🧩 Tech Stack
 Component	Technology
@@ -91,7 +85,6 @@ Backend Logic	pandas + numpy
 Visualization	matplotlib
 Data Storage	Local CSV files
 
----
 
 🧠 Project Background
 This tool was designed for workplace ergonomics and safety assessment, helping identify and control manual handling risks such as lifting, pushing, and repetitive motion tasks.
